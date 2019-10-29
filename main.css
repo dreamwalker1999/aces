@@ -1217,6 +1217,34 @@ html.w-mod-js.w-mod-no-ios *[data-ix="scale-on-scroll-delay-300"] {
   -ms-transform: scale(0.79);
   transform: scale(0.79);
 }
+}
+html.w-mod-js.w-mod-no-ios *[data-ix="scale-on-scroll-delay-400"] {
+  opacity: 0;
+  -webkit-transform: scale(0.79);
+  -ms-transform: scale(0.79);
+  transform: scale(0.79);
+}
+}
+html.w-mod-js.w-mod-no-ios *[data-ix="scale-on-scroll-delay-500"] {
+  opacity: 0;
+  -webkit-transform: scale(0.79);
+  -ms-transform: scale(0.79);
+  transform: scale(0.79);
+}
+}
+html.w-mod-js.w-mod-no-ios *[data-ix="scale-on-scroll-delay-600"] {
+  opacity: 0;
+  -webkit-transform: scale(0.79);
+  -ms-transform: scale(0.79);
+  transform: scale(0.79);
+}
+}
+html.w-mod-js.w-mod-no-ios *[data-ix="scale-on-scroll-delay-700"] {
+  opacity: 0;
+  -webkit-transform: scale(0.79);
+  -ms-transform: scale(0.79);
+  transform: scale(0.79);
+}
 html.w-mod-js *[data-ix="hide-on-load"] {
   -webkit-transform: translate(0px, -59px);
   -ms-transform: translate(0px, -59px);
